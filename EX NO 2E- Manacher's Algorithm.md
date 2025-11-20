@@ -38,13 +38,13 @@ Compute the starting index in the original string as (cur - maxlen) / 2.
 5.Display the result:
 Extract the substring from the original string using the computed start and length, print the Longest Palindromic Substring, and stop the program.
 
+```
+Developed by: A.DHANUSH
+Register Number:  212222220010
+```
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138  
-*/
 import java.util.Scanner;
 
 public class Solution {
