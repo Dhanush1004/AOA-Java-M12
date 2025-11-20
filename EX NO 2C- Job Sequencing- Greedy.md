@@ -56,10 +56,10 @@ Return {jobsDone, totalProfit}.
 Print the number of jobs scheduled and total profit obtained.
 ## Program:
 ```
+Developed by: A.DHANUSH
+Register Number:  212222220010
 /*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:212223040138
+
 import java.util.*;
 
 public class JobScheduling {
