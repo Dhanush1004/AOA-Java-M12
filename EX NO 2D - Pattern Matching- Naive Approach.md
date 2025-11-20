@@ -34,14 +34,13 @@ If all characters match (j == m), print "Pattern found at index i".
 5.End the program.
 Stop after scanning the entire text. 
 
+```
+Developed by: A.DHANUSH
+Register Number:  212222220010
+```
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138
-*/
-
 import java.util.Scanner;
 
 public class NaivePatternSearch {
